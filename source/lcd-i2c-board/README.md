@@ -1,5 +1,5 @@
 # README-File for the @NodeMCUv3-esp8266 WiFi-~~Repeater~~/Range-extender NAT-Router -
-### Version: lcd-i2c-board v0.4 
+### Version: lcd-i2c-board v0.2
 # Author: BlackLeakz (Source-files and tutorials which helped me for codeing/assemblin' the code will be found at the end of this file)
 ## Components: 
 ```
