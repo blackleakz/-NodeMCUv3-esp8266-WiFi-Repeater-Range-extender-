@@ -3,6 +3,7 @@
 # Author: BlackLeakz (Source-files and tutorials which helped me for codeing/assemblin' the code will be found at the end of this file)
 ## Components: 
 ```
+# 1 * (NodeMCUv3-ESP8266 Microcontroller)
 # 1 * (OLED_SSD1306 Display(128x64 or 128x32 are supported))
 # 1 * (I2C-LiquidCrystal(LCD-Display/HD44780)*with interface adapter/logic-converter)
 # 1 * (Breadboard)
