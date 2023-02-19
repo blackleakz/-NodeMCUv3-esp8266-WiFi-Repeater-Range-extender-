@@ -28,8 +28,9 @@ build for NodeMCU - esp8266 ,
 (for esp32 u need 2 edit the dhcpSoftAP.dhcp.set.dns(0, WiFi.setDnsIP(0)) part)
 
 Resources-Datasheets&Pinouts:
- - NodeMCUv3-esp8266 ['https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg'](URL)
- - 
+ - NodeMCUv3-esp8266 ['https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg']
+ - Samsung Accu Cell ['https://secondlifestorage.com/index.php?threads/samsung-icr18650-20f-cell-specifications.1757/']
+ - Oled SSD1306 Display 128x64 ['https://www.rajguruelectronics.com/Product/1145/OLED%204%20Pin%20128x64%20Display%20module%200.96%20inch%20blue%20color.pdf#] 
 
 
 Libarys:
@@ -68,6 +69,6 @@ Libarys:
   
   - ['https://gist.github.com/idreamsi/f3caa557fb55e4fd1c69045de8c24719#file-esp8266-softap-webserver-ino'] (URL: SoftAP- example) - State:(interesting)
   
-  
+  - ['https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/'] (URL: OLED SSD1306 128x64 Display Adafruit) - State:(using)
   
   ```
