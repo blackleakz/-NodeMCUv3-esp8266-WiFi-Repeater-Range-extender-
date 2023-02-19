@@ -24,13 +24,13 @@ Sourcefiles, tutorials and examples I used to code the firmware will be listed b
 Type of Program: NAT_WiFi-Router 
 build for NodeMCU - esp8266 , 
 (for esp32 u need 2 edit the dhcpSoftAP.dhcp.set.dns(0, WiFi.setDnsIP(0)) part)
-
+```
 Resources-Datasheets&Pinouts:
  - NodeMCUv3-esp8266 - ['https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg'] (URL)
  - Samsung Accu Cell - ['https://secondlifestorage.com/index.php?threads/samsung-icr18650-20f-cell-specifications.1757/'] (URL)
  - Oled SSD1306 Display 128x64 ['https://www.rajguruelectronics.com/Product/1145/OLED%204%20Pin%20128x64%20Display%20module%200.96%20inch%20blue%20color.pdf'] (URL)
 
-
+```
 Libarys:
   #include <ESP8266WiFi.h>
   #include <ESP8266WebServer.h>
