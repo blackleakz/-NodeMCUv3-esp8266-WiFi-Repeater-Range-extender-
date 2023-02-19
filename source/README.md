@@ -1,4 +1,4 @@
-### Here is the index for the following construction-plans.
+### Index for the following construction-plans::
 ```
 -------> v0.1 clean-board (Without components)
 -------> v0.2 lcd-i2c-board (Components: I2C-liquidcrystal2(HD44780)Lcd-display)
