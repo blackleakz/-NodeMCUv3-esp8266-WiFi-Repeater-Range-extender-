@@ -1,10 +1,11 @@
-# NodeMCUv3 esp8266 WiFi-Repeater (NAT-Router) #Range#extender
-# Version: 0.17a
-# Author: BlackLeakz
-# Github-repo: ['https://github.com/blackleakz/-NodeMCUv3-esp8266-WiFi-Repeater-Range-extender-'](URL)
-# Website: ['http://luxuzleakz.de']
-
+# NodeMCUv3 esp8266 WiFi-Repeater (NAT-Router) 
 ```
+- Version: 0.17a
+- Author: BlackLeakz
+- Github-repo: ['https://github.com/blackleakz/-NodeMCUv3-esp8266-WiFi-Repeater-Range-extender-'](URL)
+- Website: ['http://luxuzleakz.de']
+
+
 # Cunstruction plan for each version.
 
 Resources:
