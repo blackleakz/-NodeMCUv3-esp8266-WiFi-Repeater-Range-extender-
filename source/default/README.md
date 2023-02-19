@@ -5,7 +5,7 @@
 - Wire-cables
 - (not essential) Samsung SDI ICR18650-20F 1A928 | Accu ['https://secondlifestorage.com/index.php?threads/samsung-icr18650-20f-cell-specifications.1757/'](URL)
 
-´´´ Cell specifications: 
+``` Cell specifications: 
 Brand:	Samsung
 Model:	ICR18650-20F
 Capacity:	2000mAh Rated
@@ -19,4 +19,4 @@ Discharging:	2.75V Cutoff
 Description:	Blue (Light) Cell Wrapper
 White Insulator Ring
 18650 Form Factor
-´´´
+```
