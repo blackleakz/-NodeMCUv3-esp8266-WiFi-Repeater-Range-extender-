@@ -48,25 +48,25 @@ Libarys:
   
   SOURCE:
   
-  - ['https://lastminuteengineers.com/creating-esp8266-web-server-arduino-ide/'](URL: Basic WebServer) - State:(modified using)# server on_handle functions could be declared by using the server.on(400
+  - ['https://lastminuteengineers.com/creating-esp8266-web-server-arduino-ide/'] (URL: Basic WebServer) - State:(modified using)# server on_handle functions could be declared by using the server.on(400
   
- - ['https://github.com/esp8266/ESPWebServer/blob/master/examples/SimpleAuthentification/SimpleAuthentification.ino'](URL: Simple Login-Auth-System for WebServer by headers&coockies) - State:(using)
- - ['https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WebServer/examples/HttpBasicAuth/HttpBasicAuth.ino'](URL: HttpBasicAuth) - State:(could be used instead)
+ - ['https://github.com/esp8266/ESPWebServer/blob/master/examples/SimpleAuthentification/SimpleAuthentification.ino'] (URL: Simple Login-Auth-System for WebServer by headers&coockies) - State:(using)
+ - ['https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WebServer/examples/HttpBasicAuth/HttpBasicAuth.ino'] (URL: HttpBasicAuth) - State:(could be used instead)
   
- - ['https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/wifi-extender-mit-esp8266-und-esp32'](URL: nat-router-esp8266 #nodemcu #example) - State:(using)
+ - ['https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/wifi-extender-mit-esp8266-und-esp32'] (URL: nat-router-esp8266 #nodemcu #example) - State:(using)
   
- - ['https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/'](URL: OLED_SSD1306 128x64 or 128x32 DISPLAY) - State:(using)
+ - ['https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/'] (URL: OLED_SSD1306 128x64 or 128x32 DISPLAY) - State:(using)
   
-  - ['https://secondlifestorage.com/index.php?threads/samsung-icr18650-20f-cell-specifications.1757/'](URL: ACCU Samsung) - State:(using)
+  - ['https://secondlifestorage.com/index.php?threads/samsung-icr18650-20f-cell-specifications.1757/'] (URL: ACCU Samsung) - State:(using)
   
-  - ['https://itler.net/esp8266-wifi-netze-auf-bestimmtes-wlan-scannen/'](URL: WiFi-Scan function) - State:(could be interesting for understanding the current WiFi-Scan function, which prints Results to oled display and website)
-  - ['https://techtutorialsx.com/2017/02/25/esp8266-scanning-wifi-networks/'](URL: Sample WiFi-Scan FUNCTION) - State:(using)
+  - ['https://itler.net/esp8266-wifi-netze-auf-bestimmtes-wlan-scannen/'] (URL: WiFi-Scan function) - State:(could be interesting for understanding the current WiFi-Scan function, which prints Results to oled display and website)
+  - ['https://techtutorialsx.com/2017/02/25/esp8266-scanning-wifi-networks/'] (URL: Sample WiFi-Scan FUNCTION) - State:(using)
   
-  - ['https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/ota-over-the-air-esp-programmieren-uber-wlan-entwurf'](URL: OTA Update) - State:(using)
+  - ['https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/ota-over-the-air-esp-programmieren-uber-wlan-entwurf'] (URL: OTA Update) - State:(using)
   
   
   
-  - ['https://gist.github.com/idreamsi/f3caa557fb55e4fd1c69045de8c24719#file-esp8266-softap-webserver-ino'](URL: SoftAP- example) - State:(interesting)
+  - ['https://gist.github.com/idreamsi/f3caa557fb55e4fd1c69045de8c24719#file-esp8266-softap-webserver-ino'] (URL: SoftAP- example) - State:(interesting)
   
   
   
