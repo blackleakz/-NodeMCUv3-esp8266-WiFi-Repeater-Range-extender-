@@ -6,7 +6,7 @@
 - Website: ['http://luxuzleakz.de']
 
 
-# Cunstruction plan for each version.
+# Cunstruction plans for each version.
 
 Resources:
 - OLED_SSD1306(Adafruit)(128 x64/128/32) 
